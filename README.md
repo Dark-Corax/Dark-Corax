@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dark-Corax
+- 👋 Hi, I’m Rivoningo Ndubane
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on any beginner projects
