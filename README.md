@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rivoningo Ndubane
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently refining my skills in Python
 - 💞️ I’m looking to collaborate on any beginner projects
 - 📫 How to reach me rivinine@gmail.com
 - 😄 Pronouns: he/him
